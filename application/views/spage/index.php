@@ -9,7 +9,7 @@
         <thead>
           <tr>
             <th width="10">ID</th>
-            <th>Nama Lengkao</th>
+            <th>Nama Lengkap</th>
             <th>Alamat</th>
             <th>No HP</th>
             <th>Jenis Kelamin</th>
@@ -31,7 +31,7 @@ foreach ($data as $key) {
         <tfoot>
           <tr>
             <th>ID</th>
-            <th>Nama Lengkao</th>
+            <th>Nama Lengkap</th>
             <th>Alamat</th>
             <th>No HP</th>
             <th>Jenis Kelamin</th>

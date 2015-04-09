@@ -329,6 +329,9 @@
               <ul class="treeview-menu">
                 <li class=""><a href="<?=base_url('spage');?>"><i class="fa fa-circle-o"></i> Sample Paging</a></li>
               </ul>
+              <ul class="treeview-menu">
+                <li class=""><a href="<?=base_url('crud');?>"><i class="fa fa-circle-o"></i> C R U D</a></li>
+              </ul>
             </li>
             
           </ul>
