@@ -332,6 +332,9 @@
               <ul class="treeview-menu">
                 <li class=""><a href="<?=base_url('crud');?>"><i class="fa fa-circle-o"></i> C R U D</a></li>
               </ul>
+              <ul class="treeview-menu">
+                <li class=""><a href="<?=base_url('rmonitoring');?>"><i class="fa fa-circle-o"></i> Realtime Monitoring</a></li>
+              </ul>
             </li>
             
           </ul>

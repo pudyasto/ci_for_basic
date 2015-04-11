@@ -28,7 +28,7 @@ class Crud extends CI_Controller{
     public function index() {
         $logged_in = $this->session->userdata('logged_in');
         if(!$logged_in){
-            $this->load->view('access/login');
+            header("location: ".base_url());
         }
         
         $this->load->model('crud/queries');
