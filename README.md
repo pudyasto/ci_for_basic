@@ -12,8 +12,9 @@ Module created
 1. Access module (not using users table, but it's contain login page using session in database)
 2. Pagination Library (basic paging with codeigniter and AdminLTE table)
 3. CRUD (Basic CRUD using Fully MVC PHP concept)
-4. On progress.......
+4. Realtime Monitoring User(Using Session Database)
+5. On progress.......
 
 I Hope it useful to you
 
-Thanks for pulling/downloading :D
+Thanks for clonning/pulling/downloading :D
