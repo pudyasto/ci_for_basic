@@ -338,6 +338,9 @@
               <ul class="treeview-menu">
                 <li class=""><a href="<?=base_url('sterbilang');?>"><i class="fa fa-circle-o"></i> Sample Terbilang</a></li>
               </ul>
+              <ul class="treeview-menu">
+                <li class=""><a href="<?=base_url('uploader');?>"><i class="fa fa-circle-o"></i> Sample Upload File</a></li>
+              </ul>
             </li>
             
           </ul>
