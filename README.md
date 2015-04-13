@@ -13,7 +13,8 @@ Module created
 2. Pagination Library (basic paging with codeigniter and AdminLTE table)
 3. CRUD (Basic CRUD using Fully MVC PHP concept)
 4. Realtime Monitoring User(Using Session Database)
-5. On progress.......
+5. Terbilang Library and Implementation
+6. On progress.......
 
 I Hope it useful to you
 
