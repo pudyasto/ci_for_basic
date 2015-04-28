@@ -344,6 +344,9 @@
               <ul class="treeview-menu">
                 <li class=""><a href="<?=base_url('ajaxform');?>"><i class="fa fa-circle-o"></i> Ajax Form</a></li>
               </ul>
+              <ul class="treeview-menu">
+                <li class=""><a href="<?=base_url('rptpdf');?>"><i class="fa fa-circle-o"></i> Laporan PDF</a></li>
+              </ul>
             </li>
             
           </ul>
