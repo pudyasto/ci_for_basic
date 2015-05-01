@@ -347,6 +347,9 @@
               <ul class="treeview-menu">
                 <li class=""><a href="<?=base_url('rptpdf');?>"><i class="fa fa-circle-o"></i> Laporan PDF</a></li>
               </ul>
+                <ul class="treeview-menu">
+                <li class=""><a href="<?=base_url('pdfbarcode');?>"><i class="fa fa-circle-o"></i> PDF Barcode</a></li>
+              </ul>
             </li>
             
           </ul>
